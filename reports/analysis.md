@@ -72,6 +72,27 @@ P50 Latency: 56.37 ms
 P99 Latency: 56.37 ms (Target: <150ms)
 BLEU Score:  11.04 (Industry Target: >85)
 
+
+
+--- DOMAIN VALIDATION: MEDICAL SANITY CHECK ---
+EN: The patient requires a blood pressure check.
+ES: El paciente requiere un control de presión arterial.<unk>
+
+EN: Please take two tablets after every meal.
+ES: Por favor tome dos comprimidos después de cada comida.
+
+EN: The MRI results show no signs of fracture.
+ES: Los resultados de la RMN no muestran signos de fractura.
+
+EN: Are you experiencing any shortness of breath?
+ES: ¿Estás experimentando alguna dificultad para respirar?<unk>
+
+--- SCALABILITY: BATCH THROUGHPUT (1,000 CONCURRENT REQ SIMULATION) ---
+Processed Batch of 16 in: 208.35 ms
+Effective latency per request: 13.02 ms
+
+
+
 ---
 
 ## 7. Key Findings
