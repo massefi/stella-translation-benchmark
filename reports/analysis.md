@@ -1,7 +1,4 @@
----
 
-### 2. For `reports/analysis.md`
-(On GitHub: Click the Pencil icon on `analysis.md` inside the `reports` folder, delete everything, and paste this):
 
 ```markdown
 # Technical Analysis: STELLA Translation Pipeline Optimization
