@@ -1,6 +1,4 @@
 
-
-```markdown
 # STELLA Translation Benchmarking Report
 
 ## 1. Objective
