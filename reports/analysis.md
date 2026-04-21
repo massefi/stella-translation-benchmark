@@ -68,11 +68,9 @@ We evaluate each configuration across:
 
 ### Performance Comparison
 
-| Model | P50 Latency | P99 Latency | BLEU | Throughput | Memory | Cost |
-|------|------------|-------------|------|------------|--------|------|
-| FP32 Baseline | 600–900ms | 800–1200ms | 90+ | 1–2 req/s | 6–8GB | High |
-| INT8 (CTranslate2) | 80–120ms | 120–150ms | 85–88 | 8–12 req/s | 3–4GB | Low |
-| LLM (Estimated) | ~120ms | ~180ms | ~82 | ~8 req/s | ~6GB | Medium |
+P50 Latency: 56.37 ms
+P99 Latency: 56.37 ms (Target: <150ms)
+BLEU Score:  11.04 (Industry Target: >85)
 
 ---
 
