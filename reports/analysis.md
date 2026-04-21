@@ -1,13 +1,8 @@
 
 ---
 
-# 📄 Improved `analysis.md` (non-redundant + more “research paper style”)
+# 📄
 
-This version is intentionally:
-- deeper than README
-- less repetitive
-- more “interview explanation + paper quality”
-- stronger on reasoning (important for Meta/AWS/Google style interviews)
 
 ```markdown
 # STELLA Translation Benchmarking Report
