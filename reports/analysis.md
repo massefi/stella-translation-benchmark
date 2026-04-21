@@ -1,9 +1,6 @@
 
 ---
 
-# 📄
-
-
 ```markdown
 # STELLA Translation Benchmarking Report
 
