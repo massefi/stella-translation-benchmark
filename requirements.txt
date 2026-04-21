@@ -1,0 +1,7 @@
+ctranslate2==4.4.0
+transformers==4.40.0
+sacrebleu
+datasets
+requests
+numpy
+torch
