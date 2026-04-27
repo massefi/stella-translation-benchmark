@@ -1,6 +1,6 @@
 # STELLA Translation Benchmarking Report
 **Author:** Mehdi Assefi, Ph.D.  
-**Deadline:** Tuesday, April 21 @ 5:30pm 
+
 
 ## 1. Objective
 To evaluate tradeoffs between accuracy (BLEU), latency (p99), and cost in real-time neural machine translation (NMT) systems for the STELLA platform. The goal is to identify a configuration that fits the < 150ms translation window within a total < 500ms voice-to-voice budget.
