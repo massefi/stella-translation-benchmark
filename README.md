@@ -1,6 +1,6 @@
 # STELLA: High-Performance Real-Time Translation
 
-STELLA is an optimization framework for real-time voice translation in healthcare, hospitality, and education[cite: 2, 4]. This repository benchmarks 3-4 model configurations to solve the latency vs. accuracy tradeoff.
+STELLA is an optimization framework for real-time voice translation in healthcare, hospitality, and education. This repository benchmarks 3-4 model configurations to solve the latency vs. accuracy tradeoff.
 
 ## 🚀 Performance Summary (Config C)
 
