@@ -12,7 +12,7 @@ STELLA is an optimization framework for real-time voice translation in healthcar
 ## 🧠 Architectural Approach: LoRA & Quantization
 
 To meet the strict **STELLA** requirements, this implementation uses a two-pronged approach:
-1.  **Inference Speed:** CTranslate2 with **INT8 quantization** to bypass standard PyTorch overhead and hit sub-100ms latencies[cite: 29, 31].
+1.  **Inference Speed:** CTranslate2 with **INT8 quantization** to bypass standard PyTorch overhead and hit sub-100ms latencies.
 2.  **Domain Accuracy:** A **LoRA (Low-Rank Adaptation)** roadmap. The 86.36 BLEU result is a **projected score**[cite: 11]. It reflects the performance of the INT8 model after fine-tuning on the Medline Parallel Corpus to capture clinical-grade precision.
 
 ## 🛠 Project Structure
