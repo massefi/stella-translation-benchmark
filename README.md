@@ -5,7 +5,7 @@ STELLA is an inference optimization framework designed for voice-to-voice transl
 ## 🚀 Performance Snapshot (Config: CT2-600M-INT8)
 
 - **P99 Latency:** 77.22 ms (Target: <150ms) ✅
-- **Accuracy:** 86.36 BLEU (Target: >85) ✅
+- **Accuracy:** 86.36 BLEU(projected) (Target: >85) ✅
 - **Cost:** <$0.0001 per inference (Self-hosted) ✅
 - **Throughput:** 121.20 requests/sec ✅
 
