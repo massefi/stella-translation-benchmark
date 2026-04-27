@@ -4,10 +4,10 @@ STELLA is an optimization framework for real-time voice translation in healthcar
 
 ## 🚀 Performance Summary (Config C)
 
-- **P99 Latency:** 77.22 ms (Target: < 150ms) [cite: 10] ✅
-- **Accuracy:** 86.36 BLEU (Target: > 85) [cite: 11] ✅
-- **Cost:** <$0.0001 per inference (Target: < $0.001) [cite: 12] ✅
-- **Scalability:** 121.20 requests/sec (Target: 1000 concurrent) [cite: 13] ✅
+- **P99 Latency:** 77.22 ms (Target: < 150ms)  ✅
+- **Accuracy:** 86.36 BLEU (Target: > 85)  ✅
+- **Cost:** <$0.0001 per inference (Target: < $0.001)  ✅
+- **Scalability:** 121.20 requests/sec (Target: 1000 concurrent)  ✅
 
 ## 🧠 Architectural Approach: LoRA & Quantization
 
